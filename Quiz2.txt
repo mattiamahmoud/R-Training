@@ -1,0 +1,24 @@
+1. Continuing with the 'mtcars' dataset from the previous Question, what is the absolute difference between the average horsepower of 4-cylinder cars and the average horsepower of 8-cylinder cars?
+2. If you run
+debug(ls)	
+what happens when you next call the 'ls' function?
+a.	Execution of 'ls' will suspend at the beginning of the function and you will be in the browser.	
+b.	The 'ls' function will execute as usual.			
+c.	The 'ls' function will return an error.			
+d.	Execution of the 'ls' function will suspend at the 4th line of the function and you will be in the browser.
+
+
+3. Which of the following will initiate a git repository locally?
+
+git remote add			
+git pull			
+git init	
+git boom
+
+4. Suppose you have forked a repository called datascientist on Github but it isn't on your local computer yet. Which of the following is the command to bring the directory to your local computer? (For this question assume that your user name is username)
+
+git pull https://github.com/username/datascientist.git			
+git init			
+git clone https://github.com/username/datascientist.git	
+git pull username https://github.com/username/datascientist.git
+
